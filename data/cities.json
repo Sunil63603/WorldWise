@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "9745531",
+      "cityName": "Torres Novas",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-12-10T18:30:00.000Z",
+      "notes": "Novas was like Rivas ",
+      "position": {
+        "lat": "39.487084981687495",
+        "lng": "-8.635253906250002"
+      }
+    },
+    {
+      "id": "4333519",
+      "cityName": "Chaussan",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-17T18:30:00.000Z",
+      "notes": "wow , dolly ka choosa ",
+      "position": {
+        "lat": "45.644768217751924",
+        "lng": "4.636230468750001"
+      }
+    },
+    {
+      "id": "9339020",
+      "cityName": "Truchas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-12-10T18:30:00.000Z",
+      "notes": "truchas\n",
+      "position": {
+        "lat": "42.261049162113856",
+        "lng": "-6.437988281250001"
+      }
+    }
+  ]
+}
